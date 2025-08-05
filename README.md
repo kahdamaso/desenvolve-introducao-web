@@ -4,7 +4,9 @@
 - **Nome da disciplina:** Introdução à Programação Web
 - **Número de matrícula:** PDBD259
 
-Exercícios – Internet 
+
+
+# Exercícios – Internet 
 
 ## 1. Qual é o papel de uma máquina cliente e de uma máquina servidor?
 - A máquina **cliente** é quem faz o pedido, como quando você entra em um site.
