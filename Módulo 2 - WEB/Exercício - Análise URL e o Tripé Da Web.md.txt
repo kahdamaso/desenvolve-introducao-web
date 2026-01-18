@@ -1,0 +1,22 @@
+Exercícios - Web
+1. Analise a seguinte URL
+
+https://www.nytimes.com/2023/08/28/science/birds-flycatcher-migration.html
+
+e obtenha as seguintes informações:
+
+•Protocolo : https://
+
+•Domínio: www.nytimes.com
+
+•Caminho: /2023/08/28/science/
+
+•Parâmetros: não possui
+
+2. Descreva qual é o propósito de cada uma das tecnologias consideradas o “tripé da web”.
+
+HTTP : o protocolo da comunicação, é a linguagem que os computadores usam para conversar na Web. É como se fosse o correio da internet, envia e recebe informações entre navegador(cliente) e os sites(servidores).
+
+URL: o endereço dos sites, é o endereço que digitamos para acessar um site. Ele aponta exatamente onde está um conteúdo na Web, seja pagina, imagem, vídeo, etc. Cada site tem uma URL única.
+
+HTML: a estrutura da página, ele organiza o conteúdo da pagina, os títulos, imagens, links, etc. É o como se fosse o esquelo da página.
