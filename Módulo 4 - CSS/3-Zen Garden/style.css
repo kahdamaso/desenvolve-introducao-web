@@ -1,0 +1,11 @@
+/* Color Theme Swatches in Hex */
+.principal{ color: #034159; }
+.background{ color: #025951; }
+.Closeup-shot-of-a-hard-soap-with-bubbles-and-beautiful-color-textures-4-hex{ color: #02735E; }
+.Closeup-shot-of-a-hard-soap-with-bubbles-and-beautiful-color-textures-4-hex { color: #038C3E; }
+.destaque{ color: #0CF25D; }
+
+html {
+    background-color: #0CF25D;
+    color: #034159;
+}
